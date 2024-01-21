@@ -6,4 +6,4 @@
 ### 2. npm run dev
 
 _Note: This repository is made with ❤️ and Vite.
-Why Vite? Why not? It's better than CRA xD_ 
+Why Vite? Why not? It's better than CRA **(evil laughter)**_ 
