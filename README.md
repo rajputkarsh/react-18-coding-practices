@@ -5,5 +5,7 @@
 ### 1. npm install
 ### 2. npm run dev
 
+### All the lessons are divided into different branches. Get started with lesson 1 and follow along 😉
+
 _Note: This repository is made with ❤️ and Vite.
 Why Vite? Why not? It's better than CRA **(evil laughter)**_ 
