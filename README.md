@@ -3,7 +3,7 @@
 
 ### To get started with, clone this repository or download the zip and use the following steps
 1. npm install
-2. 2. npm run dev
+2. npm run dev
 
 ### All the lessons are divided into different branches. Get started with lesson 1 and follow along 😉
 
