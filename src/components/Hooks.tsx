@@ -44,10 +44,13 @@ function Hooks() {
       return myStore.state;
     },
   };
+
   const storeData = useSyncExternalStore(
     myStore.subscribe,
     myStore.getSnapshot
   );
+
+  console.log(`storeData - `, storeData);
 
   return (
     <>
